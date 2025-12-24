@@ -4,5 +4,5 @@ Undergraduate student at Yale studying Applied Mathematics and Molecular Biophys
 Theoretical ML @ Levenstein Lab, Yale<br>
 Computational Biophysics @ State 4 Therapeutics<br>
 Single-Cell Models @ Kellis Lab, MIT<br>
-DL For Epigenomics @ Lee Lab, Temple<br>
+ML/DL For Epigenomics @ Lee Lab, Temple<br>
 Graph Models For Oncology @ Nowak Lab, WCM<br>
